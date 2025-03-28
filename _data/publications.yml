@@ -1,5 +1,11 @@
 main:
 
+  - title: "Dynamic Load Balancer in Intel Xeon Scalable Processor: Performance analyses, enhancements, and guidelines"
+    authors: Jiaqi Lou, <strong>Srikar Vanavasam</strong>, Yifan Yuan, Ren Wang, Nam Sung Kim
+    conference_short: ISCA
+    conference: 2025 ACM/IEEE 52nd Annual International Symposium on Computer Architecture (ISCA 2025)
+    # pdf: ../assets/files/acc_direct_isca2025.pdf
+
   - title: "Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing Perspective"
     authors: Houxiang Ji, <strong>Srikar Vanavasam</strong>, Yang Zhou, Qirong Xia, Jinghan Huang, Yifan Yuan, Ren Wang, Pekon Gupta, Bhushan Chitlur, Ipoom Jeong, Nam Sung Kim
     conference_short: MICRO
